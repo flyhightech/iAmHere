@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import MapKit
+import MapKit // Added Mapkit and it's delegate.
 
 class ViewController: UIViewController, MKMapViewDelegate {
 
